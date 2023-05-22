@@ -9,7 +9,6 @@ type User {
     savedBooks: [Book]
   }
 
-
   type Book {
     bookId: ID!
     authors: [String]
@@ -18,7 +17,6 @@ type User {
     link: String
     title: String!
   }
-
 
   type Auth {
     token: ID!
@@ -34,7 +32,6 @@ type User {
     title: String!
   }
 
-
   type Query {
     me: User
   }
@@ -47,3 +44,5 @@ type User {
   }
 
 `
+
+module.exports = typeDefs;
