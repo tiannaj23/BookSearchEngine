@@ -34,4 +34,7 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Mock-Up
 
-- ![screen shot]()
+- ![screen shot](./images/HomeScreen.jpeg)
+- ![screen shot](./images/SunshineBooks.jpeg)
+-![screen shot](./images/HelloBooks.jpeg)
+-![screen shot](./images/CatandTheHatBooks.jpeg)
