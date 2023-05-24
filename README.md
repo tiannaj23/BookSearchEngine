@@ -1,7 +1,9 @@
 # BookSearchEngine
 
 ## Description
-- The Book search engine uses the MERN stack and with a React front end, MongoDB database, and Node js & Express js server. It's set up to allow users to save book searches to their profile and view the books and their details. The application is built using Google Books API so that users can click a link that takes them to google books. The search engine is built with GraphQL API and Apollo Server.git
+The Book search engine uses the MERN stack and with a React front end, MongoDB database, and Node js & Express js server. It's set up to allow users to save book searches to their profile and view the books and their details. The application is built using Google Books API so that users can click a link that takes them to google books. The search engine is built with GraphQL API and Apollo Server.git.
+
+- https://github.com/tiannaj23/BookSearchEngine
 
 
 ## Table of Contents
@@ -15,10 +17,10 @@
 
 
 ## Installation
-- User should clone this repository from GitHub.
+User should clone this repository from GitHub.
 
 ## Usage
-- This application allows to search for the books, save books to your saved book list and remove books from the saved book list.
+This application allows to search for the books, save books to your saved book list and remove books from the saved book list.
 
 ## License
 None.
